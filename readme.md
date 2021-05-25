@@ -1,13 +1,17 @@
-# Tráfego de Carros - Inteligência Artificial
+# Estudos em Inteligência Artificial
+
+## Tema
+
+Análise de Fluxo de Tráfego utilizando Modelos Preditivos
 
 ## Alunos
 
-- Artur Zorron
+- Artur Filgueiras Scheiba Zorron
 - Oswaldo Henrique
 
 ## Professor Orientador
 
-- Geraldo
+- Geraldo Pereira Rocha Filho
 
 ## Base de Estudo
 
